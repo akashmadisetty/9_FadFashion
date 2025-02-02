@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Priya Sharma",
+    "age": 28,
+    "occupation": "Software Engineer",
+    "location": "Bangalore",
+    "income_level": "High",
+    "fashion_style": ["Modern Contemporary", "Fusion"],
+    "personality_traits": {
+      "decision_style": "analytical",
+      "shopping_behavior": "research-oriented",
+      "style_confidence": "high"
+    },
+    "shopping_preferences": {
+      "shopping_frequency": "monthly",
+      "price_sensitivity": "medium",
+      "brand_preference": "premium brands"
+    },
+    "cultural_background": {
+      "ethnicity": "Indian",
+      "origin": "Delhi",
+      "living_situation": "Working professional in tech hub"
+    }
+  },
+  {
+    "name": "Anjali Patel",
+    "age": 35,
+    "occupation": "Business Owner",
+    "location": "Mumbai",
+    "income_level": "High",
+    "fashion_style": ["Luxury", "Traditional"],
+    "personality_traits": {
+      "decision_style": "intuitive",
+      "shopping_behavior": "quality-focused",
+      "style_confidence": "very high"
+    },
+    "shopping_preferences": {
+      "shopping_frequency": "seasonal",
+      "price_sensitivity": "low",
+      "brand_preference": "luxury brands"
+    },
+    "cultural_background": {
+      "ethnicity": "Indian",
+      "origin": "Gujarat",
+      "living_situation": "Established business family"
+    }
+  }
+]
